@@ -3,7 +3,7 @@ Contributors: audrasjb, whodunitagency, simonjanin, larrach
 Donate link: https://www.paypal.me/audrasjb
 Tags: anchor, gutenberg, link, ancre
 Requires at least: 5.2
-Tested up to: 6.4
+Tested up to: 6.9
 Stable tag: 0.1
 Requires PHP: 7.0
 License: GPLv2
